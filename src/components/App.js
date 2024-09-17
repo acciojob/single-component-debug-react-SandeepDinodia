@@ -4,8 +4,7 @@ import '../styles/App.css';
 const App = () => {
     return (
       <div id="main">
-        <h1>React</h1>
-        <p>I am learning React. My life is getting better.</p>
+        <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
       </div>
     )
 }
